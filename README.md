@@ -4,7 +4,9 @@ Fire Route, foi um projeto de um jogo desenvolvido para TCC (Trabalho de Conclus
 
 O projeto visava ser educativo e divertido, haja vista, que geralmente, os jogos educacionais possuem menos relevância e atratividade pelo público de consumidores do mercado de jogos, em comparação com jogos produzidos para entreter. Jogos para entretenimento também podem agregar valor de conhecimento e ajudar a desenvolver habilidades específicas, porém eles não são produzidos com nenhuma finalidade educacional ou com algum profissional pedagogo, que auxilie os desenvolvedores a como implementar extratégias efetivas, com o "equilíbrio" ideal, entre entretenimento e educação, para que a experiência não se torne cansativa e faça o jogador desistir.
 
-**Confira o site**:  https://projetos-alisson.github.io/Fire-Route/
+_Abaixo, há o link do site que você pode acessar para conferi-lo e testar o jogo_
+
+**Site**:  https://projetos-alisson.github.io/Fire-Route/
 
 # Problemática e justificativa:
 
@@ -54,12 +56,5 @@ if (_hspd != 0 || _vspd != 0)
 Foi utilizada uma pesquisa descritiva, com o auxílio da plataforma Google Formulários, que foi publicada para coleta de dados para aperfeiçoamento do projeto. 
 
 
-
-# Funções
-
--Alisson: (Líder): Roteiro, programação (site e jogo), pesquisa;
--Membro 1: Pixel art de personagens;
--Membro 2: Pixel art do level design;
--Membro 3: Documentação ABNT.
 
 
