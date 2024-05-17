@@ -20,15 +20,19 @@ _Abaixo, há o link do site que você pode acessar para conferi-lo e testar o jo
 
 # Descontinuado
 
-O projeto foi descontinuado, por conta da falta de compromisso e responsabilidades dos meus colegas de trabalho, onde foi preciso que eu, assumisse o compromisso de fazer praticamente tudo, em relação ao desenvolvimento do projeto, para poder concluir o ensino médio e o curso, e não repetir, pois mesmo cobrando e realizando inúmeras reuniões com meus colegas, eles não faziam suas obrigações devidamente e não entregavam as tarefas no prazo; isso impossibilitou que o projeto alcançasse as metas pretendidas em conjunto no inicio do trabalho.
+Este projeto foi descontinuado devido a desafios com a colaboração e compromissos dos membros do grupo. A maior parte do desenvolvimento foi realizada por mim, Alisson, para garantir a conclusão dos requisitos necessários para a conclusão do ensino médio e do curso.
 
-Retirei o nome e as fotos dos membros no site, pois as funções que estavam à cargo, não condizeram com seus esforços. Decidi manter apenas a minha.
+Apesar de vários esforços para envolver todos os membros do grupo, as contribuições não foram consistentes e as metas iniciais do projeto não foram alcançadas. Como resultado, o projeto não avançou conforme o planejado.
 
-Desenvolver um jogo de forma independente é muito trabalhoso para uma pessoa só, então para esse projeto ser retomado, eu precisaria aperfeiçoar minhas habilidades nas diversas áreas de desenvolvimento, necessárias na criação de um jogo, como também, colegas que pudessem me ajudar.
+Os nomes e fotos dos membros do grupo foram removidos do site, pois as responsabilidades atribuídas não foram cumpridas conforme o esperado. Decidi manter apenas as minhas informações.
+
+
+
+Devido as dificuldades de se desenvolver um jogo independente, ainda mais, desacompanhado de um time, para esse projeto ser retomado, seria preciso, um maior aperfeiçoamento das minhas habilidades, nas diferentes áreas de desenvolvimento, necessárias na criação de um jogo, como também, colegas que pudessem me ajudar.
 
 # GameMaker Studio 2
 
-Para este projeto foi usada a plataforma do Game Maker Studio e a linguagem de programação do próprio Game Maker: **Game Maker Language** **(GML)**. 
+Para este projeto foi utilizado o software, **Game Maker Studio 2**, através da linguagem de programação do próprio Game Maker: **Game Maker Language** **(GML)**. 
 
 **EXEMPLO DE CÓDIGO GML (à título de curiosidade):**
 
@@ -53,7 +57,7 @@ if (_hspd != 0 || _vspd != 0)
 ```
 
 # Google Forms
-Foi utilizada uma pesquisa descritiva, com o auxílio da plataforma Google Formulários, que foi publicada para coleta de dados para aperfeiçoamento do projeto. 
+Foi utilizada uma pesquisa descritiva, com o auxílio da plataforma Google Forms, para coleta de dados para aperfeiçoamento do projeto. 
 
 
 
