@@ -1,5 +1,7 @@
 # O que é o Fire Route?
 
+<div align="center"><img src="spr_LOGO.png" width="546" height="288"/> </div> 
+
 Fire Route, foi um projeto de um jogo desenvolvido para TCC (Trabalho de Conclusão de Curso), de gênero RPG (Role-playing game) com temática de aventura, onde o jogador controlaria um bombeiro militar que enfrentaria inúmeras missões de bombeiro, onde dentre elas, envolveria situações de emergência, a fim de ensinar primeiros socorros e incentivar a busca por tal conhecimento, de modo que o jogador pudesse adquirir ciência, sobre como agir em situação de emergência. 
 
 O projeto visava ser educativo e divertido, haja vista, que geralmente, os jogos educacionais possuem menos relevância e atratividade pelo público de consumidores do mercado de jogos, em comparação com jogos produzidos para entreter. Jogos para entretenimento também podem agregar valor de conhecimento e ajudar a desenvolver habilidades específicas, porém eles não são produzidos com nenhuma finalidade educacional ou com algum profissional pedagogo, que auxilie os desenvolvedores a como implementar extratégias efetivas, com o "equilíbrio" ideal, entre entretenimento e educação, para que a experiência não se torne cansativa e faça o jogador desistir.
