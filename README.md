@@ -28,9 +28,14 @@ Apesar de vários esforços para envolver todos os membros do grupo, as contribu
 
 Os nomes e fotos dos membros do grupo foram removidos do site, pois as responsabilidades atribuídas não foram cumpridas conforme o esperado. Decidi manter apenas as minhas informações.
 
-
-
 Devido as dificuldades de se desenvolver um jogo independente, ainda mais, desacompanhado de um time, para esse projeto ser retomado, seria preciso, um maior aperfeiçoamento das minhas habilidades, nas diferentes áreas de desenvolvimento, necessárias na criação de um jogo, como também, colegas que pudessem me ajudar.
+
+
+<h1>**IMPORTANTE!!**</h1>
+
+Devido a sepração do time, caso queira entrar em contato pelo site, favor contatar pelo email: mealisson00@gmail.com 
+
+
 
 # GameMaker Studio 2  
 
