@@ -123,6 +123,7 @@ section{
         display: block;
         margin-right: 100px;
         gap: 2rem;
+        
     }
 
     .menu-hamburguer.ativo .bar:nth-child(1){
@@ -174,9 +175,6 @@ section{
    
    
 }
-
-
-
 .img-banner{
     width: 100%;
     height: 100vh;
@@ -197,7 +195,7 @@ section{
     border: none;
     background-color: #3E3A4E;
     color: #fff;
-    
+  
  }
 
 
@@ -237,6 +235,7 @@ section{
     border: none;
     background-color: #3E3A4E;
     color: #fff;
+    z-index: 10;
 }
 .botao:hover{
     cursor: pointer;
@@ -361,9 +360,26 @@ footer{
     }
     .time{
         flex-direction: column;
+      
+        
     }
     .card{
-        width: 100%;
+        width: 55%;
+        margin: auto;
+    }
+
+    .card .nome{
+        text-align: center;
+    }
+
+    .card .competencias{
+        font-size: 90%;
+        margin-right: 20px;
+    }
+
+    .m{
+        width: 30%;
+        height: 30%;
     }
     .content-footer{
         flex-direction: column;
@@ -379,6 +395,36 @@ footer{
         width: 70px;
         height: 70px;
     }
+
+    .objetivo{
+        width: 100%;
+    }
 }
 
+@media(max-width: 664px){
+    .menu-hamburguer{
+        position: relative;
+        right: 80px;
+        margin-right: 2rem;
 
+        
+    }
+
+    
+}
+
+@media(max-width: 386px){
+
+
+    .botao-jogar, .botao{ 
+        font-size: 12px;
+        border-radius: 25px;
+        border: none;
+        background-color: #3E3A4E;
+        color: #fff;
+
+      
+     }
+
+     
+}
