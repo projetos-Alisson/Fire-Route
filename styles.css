@@ -327,13 +327,16 @@ section{
 }
 
 footer{
-    padding: 5rem;
+    
     background-color: #440A0A;
+    max-height: 100%;
+    min-height: 50vh;
 }
 
 .content-footer{
     display: flex;
     justify-content: space-around;
+   
 }
 
 .titulo-footer{
