@@ -121,8 +121,11 @@ section{
     
     .menu-hamburguer{
         display: block;
-        margin-right: 100px;
+        right: 2rem;
         gap: 2rem;
+        position: fixed;
+       
+       
     }
 
     .menu-hamburguer.ativo .bar:nth-child(1){
@@ -163,14 +166,34 @@ section{
 
 
 
-@media (max-width: 785px){
+@media (max-width: 793px){
     .navigation{
         padding: 18px 20px;
         
     }
+
+    .content-footer, .titulo-footer, .redes-footer{
+        flex-direction: column;
+        margin:  0.3rem;
+        text-align: center;
+       
+    }
+
+    
    
    
 }
+
+@media  (max-width: 470px){
+    .menu-redes{
+         opacity: 0%;
+    }
+
+    .img-faq{
+        width: 100%;
+    }
+}
+
 
 
 
@@ -281,27 +304,28 @@ section{
 }
 
 .img-faq{
-    width: 360px;
+
     height: 360px;
     border-radius: 25px;
 }
 
 
 footer{
-    padding: 5rem;
+    max-height: 100%;
+    min-height: 50vh;
     background-color: #440A0A;
 }
 
 .content-footer{
     display: flex;
     justify-content: space-around;
+ 
 }
 
 .titulo-footer{
     color: #F7B024;
-    font-size: 30px;
+    font-size: 32px;
     text-align: center;
-    
     border-bottom: #F7B024 solid 5px;
 }
 
