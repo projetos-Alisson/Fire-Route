@@ -181,6 +181,15 @@ section{
     .menu-redes {
         opacity: 0%;
     }
+
+    .img-banner{
+    width: 100vh;
+    height: 100vh;
+    padding: 2rem 0;
+    z-index: 2;
+}
+
+
   }
 
 .img-banner{
@@ -412,17 +421,6 @@ footer{
     }
 }
 
-@media(max-width: 664px){
-    .menu-hamburguer{
-        position: relative;
-        right: 80px;
-        margin-right: 2rem;
-
-        
-    }
-
-    
-}
 
 @media(max-width: 386px){
 

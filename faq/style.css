@@ -38,6 +38,7 @@ a{
 section{
     padding: 1rem 5rem;
     background-color: #F4CC7D;
+
     
 }
 
@@ -192,6 +193,8 @@ section{
     .img-faq{
         width: 100%;
     }
+
+   
 }
 
 
@@ -240,8 +243,11 @@ section{
     padding: 2%;
     text-align: center;
     word-wrap: break-word;
+    
 
 }
+
+
 
 
 
